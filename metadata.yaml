@@ -1,5 +1,8 @@
 _repo: Life-and-Travel-in-Lower-Burmah-A-Retrospect_59086
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59086-h/images/cover.jpg
 creator:
   author:
     agent_name: Paske, Charles Thomas
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '50295'
     url: http://www.gutenberg.org/2009/agents/50295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59086#Life-and-Travel-in-Lower-Burmah-A-Retrospect
 gutenberg_issued: '2019-03-18'
 gutenberg_type: Text
 identifiers:
